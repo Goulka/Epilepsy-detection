@@ -6,7 +6,7 @@ Nous travaillons sur une plateforme Web qui aidera les neurologues à mieux anal
 
 ## Les fichiers dessus :
 
-- `Présentation Finale .pptx` : présentation générale du projet.
+- `Présentation Finale .pptx` : Présentation générale du projet.
 - `Rapport Final Projet Data Science.pdf` :  Rapport du projet.
 - `Epilepsy_classification.ipynb` :  Code source + resultats des algorithmes. 
 
