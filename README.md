@@ -4,7 +4,7 @@
 Nous travaillons sur une plateforme Web qui aidera les neurologues à mieux analyser et détecter l’épilepsie chez les patients touchés.
 
 
-## les fichiers dessus :
+## Les fichiers dessus :
 
 - `Présentation Finale .pptx` : présentation générale du projet.
 - `Rapport Final Projet Data Science.pdf` :  Rapport du projet.
